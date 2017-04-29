@@ -1,0 +1,29 @@
+Literate Programming
+* 
+* Long history of companies like Mathematica participating in this idea.
+* Notebooks as a collection of narritive, code, results/output
+* Fits in with how we share ideas with each other, which is the explain research
+* Systems that allow for literate programming styles becoming more popular:
+  Apache Zeppelin
+  Jupyter Notebooks
+  RMarkdown
+
+What is R?
+* Programming language that provides an environment with software facilities for performing data manipulation, calculation, and graphical display. 
+* Similar to the S language from Bell Laboratories, many of S programs can run, unaltered, in the R environment. R is an Open Source alternative for participating in S based research.
+
+Getting Started with R
+* Download R from the website r-project.org
+* Runs on a variety of platforms
+* You can write R using your favorite text editor (emacs, vi, ...)
+  But you may consider using the RStudio IDE, by the company RStudio.
+
+Brief tour of the RStudio IDE
+* code pane
+* console
+* environment
+* viewer
+
+Focus on 3 file types...
+
+
